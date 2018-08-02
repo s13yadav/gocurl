@@ -1,2 +1,3 @@
 # gocurl
-This tool has the same functionality as curl has
+This tool has been created to simulate the behaviour of curl software.
+Currently it supports fewer options compared to all the option of native curl and this other options are under development.
